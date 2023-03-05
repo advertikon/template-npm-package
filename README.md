@@ -5,6 +5,7 @@ Template for npm package project
 - semantic release
 - eslint + prettier
 - circular dependency check on pre-commit hook
+- Slack release notification (requires Slack app to be created beforehand)
 
 **Places to adjust:**
 - `package.json`:
